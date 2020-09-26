@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c76239bf-63a6-41d0-ab7d-5784fd6f212b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGjclKpAetn1vIPYytg7UAdSph" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c76239bf-63a6-41d0-ab7d-5784fd6f212b" name="Default Changelist" comment="" />
+      <created>1586368906769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586368906769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586370212304">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586370212304" />
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom" timestamp="1586974887333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586974887333" />
+    <state width="1396" height="245" key="GridCell.Tab.0.center" timestamp="1586974887330">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586974887330" />
+    <state width="1396" height="245" key="GridCell.Tab.0.left" timestamp="1586974887329">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586974887329" />
+    <state width="1396" height="245" key="GridCell.Tab.0.right" timestamp="1586974887332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586974887332" />
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1586973285348">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586973285348" />
+    <state x="329" y="37" width="782" height="825" key="find.popup" timestamp="1586370290628">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="329" y="37" width="782" height="825" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1586370290628" />
+    <state x="149" y="72" key="new project wizard" timestamp="1586370105272">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="149" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1586370105272" />
+  </component>
+</project>
