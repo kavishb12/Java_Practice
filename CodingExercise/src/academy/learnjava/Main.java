@@ -3,8 +3,8 @@ package academy.learnjava;
 public class Main {
 
     public static void main(String[] args) {
-	boolean flag = TeenNumberChecker.hasTeen(13,99,0);
-    System.out.println(flag);
+	double cm = feetToInch.calcFeetAndInchesToCentimeters(56);
+    System.out.println(cm);
     }
 
 
