@@ -17,7 +17,8 @@ public class Main {
 //        }
 ////        boolean flag = isPrimeNumber(-1);
 //        System.out.println("The total number of prime numbers in the first 50 natural numbers are: " + count);
-            System.out.println(sumDigits(123456));
+//            System.out.println(sumDigits(123456));
+System.out.print(GreatestCommonDivisor.getGreatestCommonDivisor(25,15));
     }
 
     private static void switchLetter(){
