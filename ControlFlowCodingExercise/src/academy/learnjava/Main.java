@@ -1,5 +1,7 @@
 package academy.learnjava;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -18,8 +20,66 @@ public class Main {
 ////        boolean flag = isPrimeNumber(-1);
 //        System.out.println("The total number of prime numbers in the first 50 natural numbers are: " + count);
 //            System.out.println(sumDigits(123456));
-System.out.print(19/5);
-    }
+
+
+//        Scanner scanner = new Scanner(System.in);
+//        int sum = 0;
+//        for(int i = 1;i<=10;i++){
+//            System.out.println("Enter number #"+i);
+//            boolean isInt  = scanner.hasNextInt();
+////            System.out.println("test:"+isInt);
+//            if(isInt){
+//                int numUser = scanner.nextInt();
+////                scanner.nextLine();
+//                sum+=numUser;
+//            }
+//            else{
+//                System.out.println("Invalid Number");
+//
+//            }
+//            scanner.nextLine();
+//        }
+//        scanner.close();
+//        System.out.println("The sum is "+ sum);
+
+        Scanner scanner = new Scanner(System.in);
+        int sum = 0;
+        int i=0;
+        int min=0;
+        int max = 0;
+        while(true){
+            System.out.println("Enter number #"+i);
+
+            boolean isInt  = scanner.hasNextInt();
+            if(isInt){
+                int numUser = scanner.nextInt();
+                if(i==0){
+                    min=numUser;
+                    max=numUser;
+                }
+
+                if(min<numUser){
+                    min=numUser;
+                }
+                if(max>numUser){
+                    max=numUser;
+                }
+            }
+            else{
+                if(i==0){
+System.out.println("No value input yet");
+break;
+                }
+
+                System.out.println("Minimum number is: "+min+" and max number is: "+max);
+                break;
+            }
+            i++;
+            scanner.nextLine();
+        }
+        scanner.close();
+
+            }
 
     private static void switchLetter(){
         char character = 'a';
